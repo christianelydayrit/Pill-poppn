@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "156536076349",
+    "firebase_url": "https://pill-poppin-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pill-poppin",
+    "storage_bucket": "pill-poppin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156536076349:android:db358006f894c87ffb5254",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHv5S6Yn29FdwX9cbH9GcRaCDwC6AQfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156536076349:android:615b52e7677db0c7fb5254",
+        "android_client_info": {
+          "package_name": "com.example.pillcounts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHv5S6Yn29FdwX9cbH9GcRaCDwC6AQfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156536076349:android:4732512de99ea540fb5254",
+        "android_client_info": {
+          "package_name": "com.example.pillpoppn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHv5S6Yn29FdwX9cbH9GcRaCDwC6AQfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

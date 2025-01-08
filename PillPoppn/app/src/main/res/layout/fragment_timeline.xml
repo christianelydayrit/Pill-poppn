@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Outer Container with Border -->
+    <!-- Inner Container with Background Color -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bordertimeline">
+
+        <!-- TextView for Timeline Header -->
+        <TextView
+            android:id="@+id/textViewHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Timeline"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:padding="16dp"
+
+            android:textColor="@android:color/white" />
+
+        <!-- Container for ListView with Background Color -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textViewHeader"
+            android:padding="8dp">
+
+            <!-- ListView for Timeline Items -->
+            <ListView
+                android:id="@+id/timelineListView"
+                android:layout_width="match_parent"
+                android:layout_height="600dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/timeline"
+                android:divider="@android:color/transparent"
+                android:dividerHeight="1dp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>

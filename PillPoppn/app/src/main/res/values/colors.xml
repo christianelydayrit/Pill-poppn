@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pill1_color">#6DC5D1</color>
+    <color name="pill2_color">#FDE49E</color>
+    <color name="pill3_color">#FEB941</color>
+    <color name="pill4_color">#DD761C</color>
+    <color name="custom_navigation_item_color">#DD5746</color>
+    <color name="timelinepills">#FFE5CF</color>
+</resources>
