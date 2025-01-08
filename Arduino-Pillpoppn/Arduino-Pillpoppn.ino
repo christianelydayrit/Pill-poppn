@@ -6,10 +6,10 @@
 #include <LiquidCrystal_I2C.h>
 #include <ESP32Servo.h>
 // Wi-Fi credentials and Firebase setup
-#define WIFI_SSID "Peanut Chan2"
-#define WIFI_PASSWORD "peanutpengeaozi"
-#define API_KEY "AIzaSyCmHv5S6Yn29FdwX9cbH9GcRaCDwC6AQfg"
-#define DATABASE_URL "https://pill-poppin-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WIFI_SSID "**********"
+#define WIFI_PASSWORD "**********"
+#define API_KEY "**********"
+#define DATABASE_URL "**********"
 #define BUTTON_DEBOUNCE_DELAY 50
 // Phototransistor pins for each pill sensor
 const int photoPins[] = {34, 35, 33, 32};
